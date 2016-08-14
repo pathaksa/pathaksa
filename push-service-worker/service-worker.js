@@ -15,7 +15,7 @@ self.addEventListener('push', function(event) {
     badge: './images/icon-72x72.png',
     tag: 'simple-push-demo-notification',
     data: {
-      url: 'https://developers.google.com/web/fundamentals/getting-started/push-notifications/'
+      url: 'https://pathaksa.github.io/pathaksa/push-service-worker/notification.html'
     }
   };
 
